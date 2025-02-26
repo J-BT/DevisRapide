@@ -26,6 +26,7 @@
 
 ## __Tutorial__
 | Topic | Url |
+| --- | --- | 
 **DevExpress**
 | `Create a Blazor Reporting Application (Template)` | https://docs.devexpress.com/XtraReports/404160/web-reporting/blazor-reporting/get-started/use-cli-templates | 
 | `Add a Document Viewer and Report Designer (JavaScript-Based) to a Blazor Project` | https://docs.devexpress.com/XtraReports/401677/web-reporting/blazor-reporting/server/blazor-viewer-designer-js-based/create-a-blazor-reporting-application | 
