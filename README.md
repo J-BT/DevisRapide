@@ -11,6 +11,8 @@
 > **NOTE**
 > The main purpose of this Web App is to build quotations fast and effortless. The MVP will include DEvExpress, via the project _DevisRapide.WebApp.DevExpress_, but given that the trial period will expire after 30 days, the next one _DevisRapide.WebApp_ won't implement it. 
 
+
+
 ## __Technologies for MVP__
 | Name | Description |
 | --- | --- | 
@@ -20,6 +22,11 @@
 | `C#` | ** | 
 **Frontend Librairies**
 | `Microsoft.FluentUI.AspNetCore.Components` | ** | 
-| `DevExpress.Blazor` | ** | 
+| `DevExpress.Blazor` | ** |
 
+## __Tutorial__
+| Topic | Url |
+**DevExpress**
+| `Create a Blazor Reporting Application (Template)` | https://docs.devexpress.com/XtraReports/404160/web-reporting/blazor-reporting/get-started/use-cli-templates | 
+| `Add a Document Viewer and Report Designer (JavaScript-Based) to a Blazor Project` | https://docs.devexpress.com/XtraReports/401677/web-reporting/blazor-reporting/server/blazor-viewer-designer-js-based/create-a-blazor-reporting-application | 
 

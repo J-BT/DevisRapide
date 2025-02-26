@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99 d17.13
+VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.ForTrial", "WebApp.ForTrial\WebApp.ForTrial.csproj", "{556329A4-3123-4A25-AC62-4CB02DA35DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DxReportingApp", "DxReportingApp\DxReportingApp.csproj", "{0B851957-8044-B179-9EB0-DB65C114DD63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{556329A4-3123-4A25-AC62-4CB02DA35DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{556329A4-3123-4A25-AC62-4CB02DA35DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{556329A4-3123-4A25-AC62-4CB02DA35DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B851957-8044-B179-9EB0-DB65C114DD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B851957-8044-B179-9EB0-DB65C114DD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B851957-8044-B179-9EB0-DB65C114DD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B851957-8044-B179-9EB0-DB65C114DD63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
